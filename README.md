@@ -3,9 +3,9 @@ ci-slider
 
 A confidence interval slider written for Python web applications. Used in a political ideology paper.
 
-Allows users to report a 95% confidence interval allong with their ideology estimate.
+Allows users to report a 95% confidence interval along with their ideology point estimate.
 
-This has been stripped out of an Apache server, and so will require some back-end wizardry to adapt for other projects
+This has been stripped out of an Apache server and so will require some back-end wizardry to adapt for other projects.
 
 ## Notes from Implementation
 
@@ -25,9 +25,9 @@ The user is directed through the pages in this order:
 
 ## Credits
 
-Some of the code from this project was written with thanks by [Prof. Gregory Huber](http://huber.research.yale.edu)
+Some of the code from this project was written with thanks by [Prof. Gregory Huber](http://huber.research.yale.edu).
 
 ## License
 
-This code is distributed under GPL v3
+This code is distributed under GPL v3.
 Specific license can be found in license.txt
